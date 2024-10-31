@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/ContactManagerG26.props" />
+</Project>
